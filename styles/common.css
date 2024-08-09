@@ -98,49 +98,41 @@ h4 {
 .title-xl {
     font-weight: 500;
     font-size: var(--font-size-title-xl);
-    line-height: var(--line-height-title-xl-title-xl);
     text-align: center;
 }
 
 .title-lg {
     font-size: var(--font-size-title-lg);
-    line-height: var(--line-height-title-xl-title-lg);
     font-weight: 400;
     letter-spacing: -2px;
 }
 
 .title {
     font-size: var(--font-size-title);
-    line-height: var(--line-height-title-xl-title);
     font-weight: 500;
 }
 
 .title-md {
     font-size: var(--font-size-title-md);
     font-weight: 500;
-    line-height: var(--line-height-title-xl-title-md);
     letter-spacing: -0.02em;
 }
 
 .title-sm {
     font-size: var(--font-size-title-sm);
     font-weight: 500;
-    line-height: var(--line-height-title-xl-title-sm);
 }
 
 .text-xl {
     font-size: var(--font-size-text-xl);
-    line-height: var(--line-height-text-xl);
 }
 
 .text-lg {
     font-size: var(--font-size-text-lg);
-    line-height: var(--line-height-text-lg);
 }
 
 .text {
     font-size: var(--font-size-text);
-    line-height: var(--line-height-text);
     letter-spacing: -0.02em;
     margin: 0;
 }
@@ -148,26 +140,22 @@ h4 {
 .text-bold {
     font-size: var(--font-size-text);
     font-weight: 600;
-    line-height: var(--line-height-text);
     letter-spacing: -0.02em;
 }
 
 .text-md {
     font-size: var(--font-size-text-md);
-    line-height: var(--line-height-text-md);
     letter-spacing: -0.02em;
 }
 
 .text-md-bold {
     font-size: var(--font-size-text-md);
     font-weight: 600;
-    line-height: var(--line-height-text-md);
     letter-spacing: -0.02em;
 }
 
 .text-sm {
     font-size: var(--font-size-text-sm);
-    line-height: var(--line-height-text-sm);
     letter-spacing: -0.02em;
     margin: 0;
 }
